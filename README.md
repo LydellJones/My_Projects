@@ -1,5 +1,5 @@
 # My_Projects
- This has all the projects i've worked on so far. Some may or may not be complete. A label distinguishing them will be coming soon....
+ This has all the projects i've worked on so far that are important to me. Some may or may not be complete. A label distinguishing them will be coming soon....
  More will be added as i come across my project files.
  # Qwasar Projects
  For the Qwasar projects, I learned by doing reasearch in order to solve various prompts
