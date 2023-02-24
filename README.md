@@ -2,7 +2,7 @@
  This has all the projects i've worked on so far.
  More will be added as i come across my project files.
  For the Qwasar projects, I learned by doing reasearch in order to solve various prompts
-    #Skills Learned
+    # Skills Learned
       CSS
       C
       HTML
@@ -10,7 +10,7 @@
       MakeFile
       Bash
  For the Personal projects, I took time to myself to try and solve a random or practical problem I come across.
-    #Skills Learned
+    # Skills Learned
       Python
       C#
       Batch
