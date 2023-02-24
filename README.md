@@ -19,7 +19,7 @@
       Navigation of Debian Distro
  # Class Projects
  For the Class projects, I learned how to complete these at California State University: Sacramento
- #Skills Learned
+ # Skills Learned
       Java
       C
       x86/x64(respectively) INTEL Syntax assembly
